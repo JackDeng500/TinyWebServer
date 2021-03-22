@@ -1,5 +1,5 @@
 
-这里是[项目原地址](https://github.com/qinguoyi/TinyWebServer)
+这里是[原项目](https://github.com/qinguoyi/TinyWebServer)
 ----
 TinyWebServer
 ===============
